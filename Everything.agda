@@ -77,7 +77,6 @@ import Categories.Category.Monoidal.Braided
 import Categories.Category.Monoidal.Braided.Properties
 import Categories.Category.Monoidal.Closed
 import Categories.Category.Monoidal.Closed.IsClosed
-import Categories.Category.Monoidal.Enriched
 import Categories.Category.Monoidal.Instance.Cats
 import Categories.Category.Monoidal.Instance.Setoids
 import Categories.Category.Monoidal.Instance.Sets
@@ -121,6 +120,7 @@ import Categories.Diagram.Pullback.Properties
 import Categories.Diagram.Pushout
 import Categories.Diagram.Pushout.Properties
 import Categories.Diagram.SubobjectClassifier
+import Categories.Enriched.Category
 import Categories.Functor
 import Categories.Functor.Algebra
 import Categories.Functor.Bifunctor
