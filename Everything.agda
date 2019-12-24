@@ -123,6 +123,7 @@ import Categories.Diagram.Pushout.Properties
 import Categories.Diagram.SubobjectClassifier
 import Categories.Enriched.Category
 import Categories.Enriched.Functor
+import Categories.Enriched.NaturalTransformation
 import Categories.Functor
 import Categories.Functor.Algebra
 import Categories.Functor.Bifunctor
